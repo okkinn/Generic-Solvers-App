@@ -1,0 +1,10 @@
+name: polyreg
+title:
+username: okkinn
+account: okkinn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10714474
+bundleId: 8064795
+url: https://okkinn.shinyapps.io/polyreg/
+version: 1
