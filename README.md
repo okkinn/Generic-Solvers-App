@@ -19,7 +19,7 @@ This project offers a solvers for mathematical and optimization problems, focusi
 
 ## User Manual
 
-You can access the web application [here](https://okkinn.shinyapps.io/CMSC150Project/).  
+You can access the web application <a href="[https://your-shiny-app-url](https://okkinn.shinyapps.io/CMSC150Project/)" target="_blank">here</a>.  
 
 For detailed installation and usage instructions, please refer to the [project user manual](docs/UserManual.pdf).  
 
