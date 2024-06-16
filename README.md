@@ -19,7 +19,9 @@ This project offers a solvers for mathematical and optimization problems, focusi
 
 ## User Manual
 
-For detailed installation and usage instructions, please refer to the [project user manual](docs/UserManual.pdf)
+You can access the web application [here](https://okkinn.shinyapps.io/CMSC150Project/)
+
+For detailed installation and usage instructions, please refer to the [project user manual](docs/UserManual.pdf).
 
 ## References
 
