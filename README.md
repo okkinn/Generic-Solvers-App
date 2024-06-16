@@ -19,9 +19,9 @@ This project offers a solvers for mathematical and optimization problems, focusi
 
 ## User Manual
 
-You can access the web application [here](https://okkinn.shinyapps.io/CMSC150Project/)
+You can access the web application [here](https://okkinn.shinyapps.io/CMSC150Project/).  
 
-For detailed installation and usage instructions, please refer to the [project user manual](docs/UserManual.pdf).
+For detailed installation and usage instructions, please refer to the [project user manual](docs/UserManual.pdf).  
 
 ## References
 
@@ -41,6 +41,6 @@ The following references were used in developing the application:
 
 ## License
 
-Copyright (c) Nico De Castro. All rights reserved.
+Copyright (c) Nico De Castro. All rights reserved.  
 
-Licensed under the [MIT](LICENSE.txt) license.
+Licensed under the [MIT](LICENSE.txt) license.  
